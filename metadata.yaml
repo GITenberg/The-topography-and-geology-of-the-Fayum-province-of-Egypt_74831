@@ -1,0 +1,33 @@
+_repo: The-topography-and-geology-of-the-Fayum-province-of-Egypt_74831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beadnell, H. J. L. (Hugh John Llewellyn)
+    aliases:
+    - Beadnell, Hugh John Llewellyn
+    - Beadnell, H. J. Llewellyn
+    - Beadnell, Hugh J. L.
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '49281'
+    url: http://www.gutenberg.org/2009/agents/49281
+description: ''
+gutenberg_issued: '2024-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74831'
+language: en
+pgterms:marc904: https://archive.org/details/topographygeolo00egyp
+pgterms:marc905: 20241119082440beadnell
+pgterms:marc906: '1905'
+pgterms:marc907: EG
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Smithsonian Institution Libraries)
+publication_note: '  $aCairo :$bNational Printing Department, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The topography and geology of the Fayum province of Egypt
+url: http://www.gutenberg.org/ebooks/74831
